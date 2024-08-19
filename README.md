@@ -44,9 +44,7 @@
    
       ```bash
       pip install -r requirements.txt
-   
-   
-    ## Additional Information
+      
    
    For more details on the project and related research, please visit [this IEEE link](https://ieeexplore.ieee.org/document/10425735).
      
