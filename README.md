@@ -32,8 +32,5 @@ To set up the project environment, follow these steps:
    pip install -r requirements.txt
 
 
-
-
-
   
   
